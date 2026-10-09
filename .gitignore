@@ -1,0 +1,15 @@
+# Virtual environments
+venv/
+.venv/
+ENV/
+
+# IDE specific files
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Scraped data (if any)
+*.csv
+*.json
